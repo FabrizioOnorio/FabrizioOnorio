@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello! I am a full stack JavaScript developer, working with React, Typescript, Express and Rails.
+I'm Fabrizio, a full stack JavaScript developer, working with React, Typescript, Express and Rails.
 
 <!--
 **FabrizioOnorio/FabrizioOnorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
