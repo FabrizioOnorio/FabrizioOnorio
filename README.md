@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Fabrizio, a full stack JavaScript developer, working as a consultant for </Salt>.
+I'm Fabrizio, a full stack JavaScript developer, working as a consultant for Salt.
 💬 Ask me about my projects if you wonder anything 🚀
 
 <!--
