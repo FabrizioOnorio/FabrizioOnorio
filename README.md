@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-I'm Fabrizio, a full stack JavaScript developer, working as a consultant for Salt.
-💬 Ask me about my projects if you wonder anything 🚀
-
 <!--
 **FabrizioOnorio/FabrizioOnorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
